@@ -18,5 +18,5 @@ interface ScriptLoaderContract
      *
      * @return array
      */
-    public function getBindings($identifier): array;
+    public function getBindings(string $identifier): array;
 }

@@ -4,7 +4,7 @@ declare (strict_types = 1);
 
 namespace Reglue\Contracts4db4php;
 
-interface PDOConnectionContract
+interface PDOHandlerContract
 {
     /**
      * @return \PDO
