@@ -1,1 +1,1 @@
-# PHP - Database abstraction contracts package.
+# PHP - Database management abstraction contracts package.
