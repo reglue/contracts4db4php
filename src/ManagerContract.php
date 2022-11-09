@@ -32,14 +32,14 @@ interface ManagerContract
      *
      * @return string|bool
      */
-    public function loadScript($file);
+    public function loadScript(string $file);
 
     /**
      * @param  string $file
      *
      * @return array
      */
-    public function loadBindings($file): array;
+    public function loadBindings(string $file): array;
 
     /**
      * @return array
