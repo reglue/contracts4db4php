@@ -1,6 +1,6 @@
 {
     "name": "reglue/contracts4db4php",
-    "description": "PHP - Database abstraction contracts package.",
+    "description": "PHP - Database management abstraction.",
     "license": "MIT",
     "type": "library",
     "authors": [
